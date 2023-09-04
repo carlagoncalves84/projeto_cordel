@@ -45,6 +45,13 @@ header >p{
     padding-bottom: 50px;
     
 }
+#logo-header{
+    width: 150px;
+    border-radius: 60px;
+    height: 60px;
+    display: flex;
+    margin: 20px;
+}
 a{
     color: white;
     text-decoration: none;
@@ -96,4 +103,13 @@ footer{
     text-align: center;
     padding: 10px;
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+
 } 
+
+#logo-footer{
+    width: 250px;
+}
